@@ -1,0 +1,18 @@
+C:\Users\Upchurches\Desktop\PlaylistCopier\PlaylistCopier\bin\Release\PlaylistCopier.exe
+C:\Users\Upchurches\Desktop\PlaylistCopier\PlaylistCopier\bin\Release\PlaylistCopier.pdb
+C:\Users\Upchurches\Desktop\PlaylistCopier\PlaylistCopier\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Upchurches\Desktop\PlaylistCopier\PlaylistCopier\obj\Release\PlaylistCopier.PlayListCopier.resources
+C:\Users\Upchurches\Desktop\PlaylistCopier\PlaylistCopier\obj\Release\PlaylistCopier.Properties.Resources.resources
+C:\Users\Upchurches\Desktop\PlaylistCopier\PlaylistCopier\obj\Release\ResGen.read.1.tlog
+C:\Users\Upchurches\Desktop\PlaylistCopier\PlaylistCopier\obj\Release\ResGen.write.1.tlog
+C:\Users\Upchurches\Desktop\PlaylistCopier\PlaylistCopier\obj\Release\PlaylistCopier.exe
+C:\Users\Upchurches\Desktop\PlaylistCopier\PlaylistCopier\obj\Release\PlaylistCopier.pdb
+\\devmachine\A\Cloud Storage\Dropbox\HomeArcadeSystems\Projects\Our Websites\Thestreamingbible.com\Source Code\Audio Bible DVD App\PlaylistCopier\PlaylistCopier\obj\Release\PlaylistCopier.csproj.AssemblyReference.cache
+\\devmachine\A\Cloud Storage\Dropbox\HomeArcadeSystems\Projects\Our Websites\Thestreamingbible.com\Source Code\Audio Bible DVD App\PlaylistCopier\PlaylistCopier\obj\Release\PlaylistCopier.PlayListCopier.resources
+\\devmachine\A\Cloud Storage\Dropbox\HomeArcadeSystems\Projects\Our Websites\Thestreamingbible.com\Source Code\Audio Bible DVD App\PlaylistCopier\PlaylistCopier\obj\Release\PlaylistCopier.Properties.Resources.resources
+\\devmachine\A\Cloud Storage\Dropbox\HomeArcadeSystems\Projects\Our Websites\Thestreamingbible.com\Source Code\Audio Bible DVD App\PlaylistCopier\PlaylistCopier\obj\Release\PlaylistCopier.csproj.GenerateResource.cache
+\\devmachine\A\Cloud Storage\Dropbox\HomeArcadeSystems\Projects\Our Websites\Thestreamingbible.com\Source Code\Audio Bible DVD App\PlaylistCopier\PlaylistCopier\obj\Release\PlaylistCopier.csproj.CoreCompileInputs.cache
+\\devmachine\A\Cloud Storage\Dropbox\HomeArcadeSystems\Projects\Our Websites\Thestreamingbible.com\Source Code\Audio Bible DVD App\PlaylistCopier\PlaylistCopier\obj\Release\PlaylistCopier.pdb
+\\devmachine\A\Cloud Storage\Dropbox\HomeArcadeSystems\Projects\Our Websites\Thestreamingbible.com\Source Code\Audio Bible DVD App\PlaylistCopier\PlaylistCopier\bin\Release\PlaylistCopier.exe
+\\devmachine\A\Cloud Storage\Dropbox\HomeArcadeSystems\Projects\Our Websites\Thestreamingbible.com\Source Code\Audio Bible DVD App\PlaylistCopier\PlaylistCopier\bin\Release\PlaylistCopier.pdb
+\\devmachine\A\Cloud Storage\Dropbox\HomeArcadeSystems\Projects\Our Websites\Thestreamingbible.com\Source Code\Audio Bible DVD App\PlaylistCopier\PlaylistCopier\obj\Release\PlaylistCopier.exe
